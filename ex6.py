@@ -18,4 +18,4 @@ print joke_evslustion % hilarious #very smartly used %r for advantage just by on
 w = "this is the left side of..."
 e = "a string with a right side."
 
-print w + e # strings in one string 
+print w + e # strings in one direction biyachhhhhh
